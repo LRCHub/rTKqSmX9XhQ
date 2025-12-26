@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "클락션",
+  "base_artist": "(G)I-DLE",
+  "createdAt": "2025-12-26T13:14:06.875071Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Klaxon (클락션 (Klaxon))",
+      "artist": "(G)I-DLE",
+      "has_synced": true,
+      "path": "select/01_Klaxon_(클락션_(Klaxon))_(G)I-DLE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Klaxon (클락션 (Klaxon))",
+      "artist": "(G)I-DLE",
+      "has_synced": true,
+      "path": "select/02_Klaxon_(클락션_(Klaxon))_(G)I-DLE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Klaxon (클락션 (Klaxon))",
+      "artist": "(G)I-DLE - Topic",
+      "has_synced": true,
+      "path": "select/03_Klaxon_(클락션_(Klaxon))_(G)I-DLE_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "클락션 (Klaxon)",
+      "artist": "(여자)아이들",
+      "has_synced": true,
+      "path": "select/04_클락션_(Klaxon)_(여자)아이들.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Klaxon (클락션 (Klaxon))",
+      "artist": "(G)I-DLE",
+      "has_synced": true,
+      "path": "select/05_Klaxon_(클락션_(Klaxon))_(G)I-DLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Klaxon",
+      "artist": "(G)I-DLE",
+      "has_synced": false,
+      "path": "select/pl_01_Klaxon_(G)I-DLE.txt"
+    }
+  ]
+}
